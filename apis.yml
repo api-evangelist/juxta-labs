@@ -31,7 +31,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: 'juxtalabs.com offline (HTTPS connection refused, HTTP times out) as of 2026-07-19; company inactive/deadpooled. Not to be confused with juxtalabs.io (unrelated AI company).'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
